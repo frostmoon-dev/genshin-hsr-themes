@@ -92,6 +92,16 @@
         "label": "Honkai: Star Rail - Dan Heng (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/danheng-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Scaramouche",
+        "uiTheme": "vs",
+        "path": "./themes/scaramouche-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Scaramouche (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/scaramouche-dark-color-theme.json"
       }
     ]
   }
