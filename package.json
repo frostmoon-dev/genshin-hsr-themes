@@ -1,0 +1,98 @@
+{
+  "name": "genshin-hsr-themes",
+  "displayName": "Genshin Impact & HSR Character Themes",
+  "publisher": "frostmoon-dev",
+  "description": "VS Code themes inspired by characters from Genshin Impact and Honkai: Star Rail.",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Honkai: Star Rail - Robin",
+        "uiTheme": "vs",
+        "path": "./themes/robin-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Robin (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/robin-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Columbina",
+        "uiTheme": "vs",
+        "path": "./themes/columbina-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Columbina (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/columbina-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Ill Dottore",
+        "uiTheme": "vs",
+        "path": "./themes/dottore-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Ill Dottore (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dottore-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Yae Miko",
+        "uiTheme": "vs",
+        "path": "./themes/yaemiko-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Yae Miko (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/yaemiko-dark-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Kafka",
+        "uiTheme": "vs",
+        "path": "./themes/kafka-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Kafka (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kafka-dark-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Firefly",
+        "uiTheme": "vs",
+        "path": "./themes/firefly-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Firefly (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/firefly-dark-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Aventurine",
+        "uiTheme": "vs",
+        "path": "./themes/aventurine-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Aventurine (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/aventurine-dark-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Dan Heng",
+        "uiTheme": "vs",
+        "path": "./themes/danheng-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Dan Heng (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/danheng-dark-color-theme.json"
+      }
+    ]
+  }
+}
