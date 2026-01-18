@@ -102,6 +102,26 @@
         "label": "Genshin Impact - Scaramouche (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/scaramouche-dark-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Ruan Mei",
+        "uiTheme": "vs",
+        "path": "./themes/ruanmei-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Ruan Mei (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ruanmei-dark-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Cyrene",
+        "uiTheme": "vs",
+        "path": "./themes/cyrene-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - Cyrene (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/cyrene-dark-color-theme.json"
       }
     ]
   }
