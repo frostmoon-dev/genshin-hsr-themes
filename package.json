@@ -122,6 +122,16 @@
         "label": "Honkai: Star Rail - Cyrene (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/cyrene-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Sandrone",
+        "uiTheme": "vs",
+        "path": "./themes/sandrone-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Sandrone (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/sandrone-dark-color-theme.json"
       }
     ]
   }
