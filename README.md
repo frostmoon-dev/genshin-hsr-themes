@@ -1,37 +1,25 @@
-# Genshin Impact & Honkai: Star Rail Themes
+VS Code themes inspired by Hoyoverse characters.
 
-Beautiful VS Code themes inspired by characters from Genshin Impact and Honkai: Star Rail.
-
+Version 0.1.0 : Added characters - Scaramouche, Ruan Mei, Cyrene
+Version 0.1.1 : Added characters - Ganyu, Sandrone, Yumemizuki Mizuki
 ---
 
 ## Available Themes
 
-### Honkai: Star Rail
 - Robin
 - Kafka
 - Firefly
 - Aventurine
 - Dan Heng
-
-### Genshin Impact
+- Ruan Mei
+- Cyrene
 - Columbina
 - Ill Dottore
 - Yae Miko
-
----
-
-## Installation
-
-1. Open **Extensions** in VS Code (`Ctrl+Shift+X`)
-2. Search for `Genshin HSR Themes`
-3. Click **Install**
-4. Go to **File > Preferences > Color Theme** (or `Ctrl+K Ctrl+T`)
-5. Select your favorite character theme!
-
----
-
-## License
-MIT License - feel free to use and modify!
+- Ganyu
+- Sandrone
+- Yumemizuki Mizuki
+- Scaramouche
 
 ---
 
@@ -42,4 +30,4 @@ MIT License - feel free to use and modify!
 
 ---
 
-**Enjoy coding with your favorite characters!**
+**For whom do you weep?**

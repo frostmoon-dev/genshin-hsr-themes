@@ -2,8 +2,8 @@
   "name": "genshin-hsr-themes",
   "displayName": "Genshin Impact & HSR Character Themes",
   "publisher": "frostmoon-dev",
-  "description": "VS Code themes inspired by characters from Genshin Impact and Honkai: Star Rail.",
-  "version": "0.0.3",
+  "description": "VS Code themes inspired by Hoyoverse characters.",
+  "version": "0.1.1",
   "engines": {
     "vscode": "^1.104.0"
   },
