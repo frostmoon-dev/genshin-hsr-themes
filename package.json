@@ -3,7 +3,7 @@
   "displayName": "Genshin Impact & HSR Character Themes",
   "publisher": "frostmoon-dev",
   "description": "VS Code themes inspired by characters from Genshin Impact and Honkai: Star Rail.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -132,6 +132,36 @@
         "label": "Genshin Impact - Sandrone (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/sandrone-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Yumemizuki Mizuki",
+        "uiTheme": "vs",
+        "path": "./themes/mizuki-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Yumemizuki Mizuki (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mizuki-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Yumemizuki Mizuki (High Contrast)",
+        "uiTheme": "hc-black",
+        "path": "./themes/mizuki-highcontrast-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Ganyu",
+        "uiTheme": "vs",
+        "path": "./themes/ganyu-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Ganyu (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ganyu-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Ganyu (High Contrast)",
+        "uiTheme": "hc-black",
+        "path": "./themes/ganyu-highcontrast-color-theme.json"
       }
     ]
   }
