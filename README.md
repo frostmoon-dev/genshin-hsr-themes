@@ -16,6 +16,8 @@ ___
 
 *version 0.1.3* : columbina theme modified
 
+*version 0.1.4* : keywords updated
+
 ___
 
 <center> ♡ perfect for those who want their editor to feel like their favorite characters. </center>

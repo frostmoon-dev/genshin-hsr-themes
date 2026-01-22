@@ -3,12 +3,40 @@
   "displayName": "genshin impact & hsr color themes",
   "publisher": "frostmoon-dev",
   "description": "vs code themes inspired by hoyoverse characters.",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "engines": {
     "vscode": "^1.104.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "genshin impact",
+    "fatui",
+    "hsr",
+    "honkai star rail",
+    "themes",
+    "color themes",
+    "hoyoverse",
+    "citlali",
+    "layla",
+    "furina",
+    "ganyu",
+    "yumemizuki",
+    "mizuki",
+    "sandrone",
+    "scaramouche",
+    "dan heng",
+    "ruan mei",
+    "cyrene",
+    "kafka",
+    "firefly",
+    "aventurine",
+    "robin",
+    "columbina",
+    "dottore",
+    "yae miko",
+    "march 7th" 
   ],
   "icon": "icon.png",
   "contributes": {
