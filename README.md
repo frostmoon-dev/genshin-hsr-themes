@@ -1,33 +1,27 @@
-VS Code themes inspired by Hoyoverse characters.
+<center> ( ⸝⸝´꒳`⸝⸝) <center>
 
-Version 0.1.0 : Added characters - Scaramouche, Ruan Mei, Cyrene
-Version 0.1.1 : Added characters - Ganyu, Sandrone, Yumemizuki Mizuki
----
+**<center>ℌ𝔬𝔶𝔬𝔳𝔢𝔯𝔰𝔢 ℭ𝔬𝔩𝔬𝔯 𝔗𝔥𝔢𝔪𝔢𝔰<center>**
 
-## Available Themes
+##
 
-- Robin
-- Kafka
-- Firefly
-- Aventurine
-- Dan Heng
-- Ruan Mei
-- Cyrene
-- Columbina
-- Ill Dottore
-- Yae Miko
-- Ganyu
-- Sandrone
-- Yumemizuki Mizuki
-- Scaramouche
+a **fan‑made** collection of vs code color themes inspired by characters from hoyoverse. 
 
----
+##  
 
-## Credits
+*version 0.1.0* : new characters added  — scaramouche, ruan mei, cyrene 
 
-- Character designs © miHoYo/HoYoverse
-- Theme colors inspired by official artwork and in-game appearances
+*version 0.1.1* : new characters added  — ganyu, sandrone, yumemizuki mizuki
 
----
+*version 0.1.2* : new characters added — layla, march 7th, furina, citlali
 
-**For whom do you weep?**
+##  
+
+♡ perfect for those who want their editor to feel like their favorite characters.
+
+**ℭ𝔯𝔢𝔡𝔦𝔱𝔰**
+
+- character designs © miHoYo/HoYoverse
+- theme colors inspired by official artwork and in-game appearances
+
+
+**<center>made with ♡ by frostmoon-dev<center>**

@@ -1,9 +1,9 @@
 {
   "name": "genshin-hsr-themes",
-  "displayName": "Genshin Impact & HSR Character Themes",
+  "displayName": "genshin impact & hsr color themes",
   "publisher": "frostmoon-dev",
-  "description": "VS Code themes inspired by Hoyoverse characters.",
-  "version": "0.1.1",
+  "description": "vs code themes inspired by hoyoverse characters.",
+  "version": "0.1.2",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -162,6 +162,46 @@
         "label": "Genshin Impact - Ganyu (High Contrast)",
         "uiTheme": "hc-black",
         "path": "./themes/ganyu-highcontrast-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Furina",
+        "uiTheme": "vs",
+        "path": "./themes/furina-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Furina (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/furina-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Citlali",
+        "uiTheme": "vs",
+        "path": "./themes/citlali-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Citlali (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/citlali-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Layla",
+        "uiTheme": "vs",
+        "path": "./themes/layla-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Layla (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/layla-dark-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - March 7th",
+        "uiTheme": "vs",
+        "path": "./themes/march7th-color-theme.json"
+      },
+      {
+        "label": "Honkai: Star Rail - March 7th (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/march7th-dark-color-theme.json"
       }
     ]
   }
