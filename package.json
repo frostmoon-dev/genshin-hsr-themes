@@ -3,7 +3,7 @@
   "displayName": "genshin impact & hsr color themes",
   "publisher": "frostmoon-dev",
   "description": "vs code themes inspired by hoyoverse characters.",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "engines": {
     "vscode": "^1.104.0"
   },
@@ -36,7 +36,7 @@
     "columbina",
     "dottore",
     "yae miko",
-    "march 7th" 
+    "march 7th"
   ],
   "icon": "icon.png",
   "contributes": {
@@ -230,6 +230,46 @@
         "label": "Honkai: Star Rail - March 7th (Dark)",
         "uiTheme": "vs-dark",
         "path": "./themes/march7th-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Chiori",
+        "uiTheme": "vs",
+        "path": "./themes/chiori-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Chiori (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/chiori-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Kamisato Ayaka",
+        "uiTheme": "vs",
+        "path": "./themes/ayaka-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Kamisato Ayaka (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/ayaka-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Skirk",
+        "uiTheme": "vs",
+        "path": "./themes/skirk-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Skirk (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/skirk-dark-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Wanderer",
+        "uiTheme": "vs",
+        "path": "./themes/wanderer-color-theme.json"
+      },
+      {
+        "label": "Genshin Impact - Wanderer (Dark)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/wanderer-dark-color-theme.json"
       }
     ]
   }
